@@ -1,12 +1,12 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat&logo=powerbi&logoColor=black)
-
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-150458?style=flat&logo=pandas&logoColor=white)
 # Zomato Restaurant Analysis — Cuisine, Pricing & Rating Insights
 
 An end-to-end data analysis project exploring 50,000+ restaurants from Zomato's Bangalore dataset to uncover patterns in cuisine popularity, city-wise pricing, and the relationship between cost and customer ratings.
 
 ![image alt](https://github.com/kishan45yadav/zomato_cuisine_pricing_insights/blob/main/Screenshot%20(512).png?raw=true)
-
+![image alt](https://github.com/kishan45yadav/zomato_cuisine_pricing_insights/blob/main/Screenshot%20(513).png?raw=true)
 
 ## Key Findings
 
