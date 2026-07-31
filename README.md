@@ -5,6 +5,7 @@
 
 An end-to-end data analysis project exploring 50,000+ restaurants from Zomato's Bangalore dataset to uncover patterns in cuisine popularity, city-wise pricing, and the relationship between cost and customer ratings.
 
+![image alt](https://github.com/kishan45yadav/zomato_cuisine_pricing_insights/blob/main/Screenshot%20(512).png?raw=true)
 
 
 ## Key Findings
